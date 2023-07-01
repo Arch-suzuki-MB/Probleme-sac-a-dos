@@ -13,6 +13,9 @@ In the Knapsack problem, you're given a knapsackwith a limited capacity and sets
 ## Problem Computational Complexity 
 First of all the Compuational complexity measured the efficeney of an algorithm or a problem-solving approach. It quantify the amount of ressources, such as time and memory required by an algorithm to solve a problem as the problem size grows. 
 In general we commonly used two measures of computational complexity :
+
 *Time Complexity : measures the amount of time an algorithm takes to solve a problem, as a function of the problem size. 
+
 *Space Complexity : measures the amount of memory an algorith requires to solve a problem.
+
 Both the Time and space complexity is typically expressed by  big O notation 
